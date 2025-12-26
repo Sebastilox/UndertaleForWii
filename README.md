@@ -8,4 +8,8 @@ List of Features
 - WIP Battle System
 - Full Intro (With no text)
 - Sound Test
-- 
+- Toriel Encounter (In-Battle)
+- Basic Movement
+- Music
+- Sound Effects
+- First 3 Rooms
