@@ -13,3 +13,26 @@ List of Features
 - Music
 - Sound Effects
 - First 3 Rooms
+
+
+# Bugs
+
+-Crashes in Nintendo 3DS with fps going to 30 in battle
+
+-Battle Interactions broken
+
+- Having to press 1 or b for pressing return in save point, otherwise it will send you to save menu
+
+- Missing Interactions
+
+
+# Disclamer
+
+This is an unofficial demake and is not affiliated with Toby Fox or any other Undertale contributors.
+
+This project uses assets from Undertale, which I do not own.
+
+This project was made for non-commercial purposes and will never be sold for profit.
+
+All rights to Undertale belong to Toby Fox.
+
