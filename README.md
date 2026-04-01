@@ -1,6 +1,6 @@
 # UndertaleForWii
-An 1:1 Demake of Undertale For The Wii. Made in rm2k3 (RPG MAKER 2003)
-It works in other consoles like the 3DS 
+An Remake of Undertale For The Wii. Made in Unity 3.5.6 For Wii
+It can be ported for other consoles like the 3DS although you will experience a lot of bugs 
 
 List of Features
 - Save Point
@@ -17,18 +17,13 @@ List of Features
 
 # Bugs
 
--Crashes in Nintendo 3DS with fps going to 30 in battle
-
--Battle Interactions broken
-
-- Having to press 1 or b for pressing return in save point, otherwise it will send you to save menu
-
 - Missing Interactions
 
+- Some UI bugs
 
 # Disclamer
 
-This is an unofficial demake and is not affiliated with Toby Fox or any other Undertale contributors.
+This is an unofficial remake and is not affiliated with Toby Fox or any other Undertale contributors.
 
 This project uses assets from Undertale, which I do not own.
 
