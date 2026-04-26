@@ -1,5 +1,5 @@
 # UndertaleForWii
-An Remake of Undertale For The Wii. Made in Unity 3.5.6 For Wii
+A Remake of Undertale For The Wii. Made in Unity 3.5.6 For Wii
 It can be ported for other consoles like the 3DS although you will experience a lot of bugs 
 
 List of Features
